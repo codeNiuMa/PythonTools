@@ -1,0 +1,374 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e9c09c24-abe9-4116-ad32-401bf2b13290" name="变更" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/learn.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/show_mouse_pos.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/test.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/venv/Lib/site-packages/pyautogui/__init__.py" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2EzEPuts1aaPuv9RfpfGHDD6QSY" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Code/PythonCode/newlearnProject/bug/xpath&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Code\PythonCode\newlearnProject\bug\xpath" />
+      <recent name="D:\Code\PythonCode\newlearnProject\bug\selenium" />
+      <recent name="D:\Code\PythonCode\newlearnProject\data" />
+      <recent name="D:\Code\PythonCode\newlearnProject" />
+      <recent name="D:\Code\PythonCode\newlearnProject\gui" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Code\PythonCode\newlearnProject\bug\异步" />
+      <recent name="D:\Code\PythonCode\newlearnProject\bug\xpath" />
+      <recent name="D:\Code\PythonCode\newlearnProject\bug\reqst" />
+      <recent name="D:\Code\PythonCode\newlearnProject\myORC" />
+      <recent name="D:\Code\PythonCode\newlearnProject\myORC\QTwindow" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.test">
+    <configuration name="请求头格式化" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="newlearnProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/bug/xpath" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/bug/xpath/请求头格式化.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="boss大数据-1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="newlearnProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/bug/xpath" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="D:\Code\PythonCode\newlearnProject\bug\xpath\boss大数据-1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="boss大数据-my" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="newlearnProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/bug/xpath" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/bug/xpath/boss大数据-my.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="boss大数据-my2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="newlearnProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/bug/xpath" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/bug/xpath/boss大数据-my2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="newlearnProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/bug/xpath" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/bug/xpath/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.test" />
+        <item itemvalue="Python.boss大数据-my2" />
+        <item itemvalue="Python.boss大数据-my" />
+        <item itemvalue="Python.boss大数据-1" />
+        <item itemvalue="Python.请求头格式化" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="e9c09c24-abe9-4116-ad32-401bf2b13290" name="变更" comment="" />
+      <created>1663589991637</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1663589991637</updated>
+      <workItem from="1663589993952" duration="3157000" />
+      <workItem from="1663638436201" duration="1050000" />
+      <workItem from="1663826100310" duration="7296000" />
+      <workItem from="1663848263305" duration="2715000" />
+      <workItem from="1663894812318" duration="1997000" />
+      <workItem from="1664004873823" duration="4493000" />
+      <workItem from="1664072695157" duration="112000" />
+      <workItem from="1664093359737" duration="925000" />
+      <workItem from="1664267140517" duration="3940000" />
+      <workItem from="1664278628416" duration="741000" />
+      <workItem from="1664323648541" duration="1258000" />
+      <workItem from="1664414740228" duration="1514000" />
+      <workItem from="1664782383140" duration="231000" />
+      <workItem from="1664787441544" duration="926000" />
+      <workItem from="1665541885194" duration="118000" />
+      <workItem from="1665646585189" duration="7395000" />
+      <workItem from="1665714638077" duration="2433000" />
+      <workItem from="1665717228722" duration="4588000" />
+      <workItem from="1665730751292" duration="3773000" />
+      <workItem from="1665734956880" duration="619000" />
+      <workItem from="1665755717983" duration="1544000" />
+      <workItem from="1665833633279" duration="2077000" />
+      <workItem from="1665890979376" duration="1224000" />
+      <workItem from="1665907137520" duration="2167000" />
+      <workItem from="1666060039344" duration="4035000" />
+      <workItem from="1666086259826" duration="730000" />
+      <workItem from="1666145233719" duration="1688000" />
+      <workItem from="1666528912771" duration="2391000" />
+      <workItem from="1667275465687" duration="779000" />
+      <workItem from="1667484267211" duration="2606000" />
+      <workItem from="1667531011174" duration="3913000" />
+      <workItem from="1667551990791" duration="606000" />
+      <workItem from="1667564946355" duration="1233000" />
+      <workItem from="1667826959115" duration="2441000" />
+      <workItem from="1667877343504" duration="5503000" />
+      <workItem from="1667963851988" duration="1496000" />
+      <workItem from="1668052630399" duration="1505000" />
+      <workItem from="1668136837163" duration="1881000" />
+      <workItem from="1668404913178" duration="1568000" />
+      <workItem from="1669708303125" duration="165000" />
+      <workItem from="1669732453160" duration="3596000" />
+      <workItem from="1669793649499" duration="439000" />
+      <workItem from="1670568110976" duration="1283000" />
+      <workItem from="1670673167762" duration="4525000" />
+      <workItem from="1670845756251" duration="441000" />
+      <workItem from="1670847262756" duration="475000" />
+      <workItem from="1671519905552" duration="63000" />
+      <workItem from="1673597706058" duration="1107000" />
+      <workItem from="1673934999035" duration="22000" />
+      <workItem from="1673966160974" duration="4186000" />
+      <workItem from="1674103336159" duration="5136000" />
+      <workItem from="1674108795804" duration="358000" />
+      <workItem from="1674187040325" duration="6263000" />
+      <workItem from="1676446743488" duration="72000" />
+      <workItem from="1677070193711" duration="1457000" />
+      <workItem from="1677155524300" duration="2739000" />
+      <workItem from="1678240956359" duration="375000" />
+      <workItem from="1680607214570" duration="1329000" />
+      <workItem from="1682327888501" duration="1593000" />
+      <workItem from="1686489617516" duration="1805000" />
+      <workItem from="1686567984940" duration="3488000" />
+      <workItem from="1686582451509" duration="5369000" />
+      <workItem from="1686636944174" duration="2923000" />
+      <workItem from="1687016215840" duration="3535000" />
+      <workItem from="1687101430351" duration="2160000" />
+      <workItem from="1687189357291" duration="5528000" />
+      <workItem from="1687761537531" duration="7382000" />
+      <workItem from="1687960626666" duration="2247000" />
+      <workItem from="1688027662886" duration="6942000" />
+      <workItem from="1688034771195" duration="4000" />
+      <workItem from="1688034801406" duration="96000" />
+      <workItem from="1688035601534" duration="824000" />
+      <workItem from="1688036453565" duration="203000" />
+      <workItem from="1688037973928" duration="353000" />
+      <workItem from="1688039099370" duration="4731000" />
+      <workItem from="1688050391657" duration="100000" />
+      <workItem from="1688132711133" duration="3118000" />
+      <workItem from="1688201006534" duration="1600000" />
+      <workItem from="1688216351704" duration="2626000" />
+      <workItem from="1688307095767" duration="5067000" />
+      <workItem from="1688648626726" duration="3613000" />
+      <workItem from="1688655473338" duration="7456000" />
+      <workItem from="1688787733250" duration="88000" />
+      <workItem from="1688886592497" duration="10856000" />
+      <workItem from="1688915727191" duration="5300000" />
+      <workItem from="1688921453679" duration="1736000" />
+      <workItem from="1688923913310" duration="100000" />
+      <workItem from="1689178779305" duration="523000" />
+      <workItem from="1689179853813" duration="1955000" />
+      <workItem from="1689230231670" duration="1461000" />
+      <workItem from="1689332920488" duration="747000" />
+      <workItem from="1689399114222" duration="9000" />
+      <workItem from="1689432238786" duration="3112000" />
+      <workItem from="1689952519244" duration="81000" />
+      <workItem from="1691333613296" duration="2186000" />
+      <workItem from="1692026442620" duration="313000" />
+      <workItem from="1694675341381" duration="700000" />
+      <workItem from="1694789840594" duration="4594000" />
+      <workItem from="1697261168117" duration="9373000" />
+      <workItem from="1697352197089" duration="264000" />
+      <workItem from="1697353877803" duration="2848000" />
+      <workItem from="1697437453615" duration="202000" />
+      <workItem from="1697448560794" duration="2003000" />
+      <workItem from="1697533437332" duration="3310000" />
+      <workItem from="1697591574682" duration="8030000" />
+      <workItem from="1697609214928" duration="13240000" />
+      <workItem from="1698203830330" duration="5269000" />
+      <workItem from="1698220236097" duration="7589000" />
+      <workItem from="1698732417009" duration="690000" />
+      <workItem from="1698734288863" duration="9837000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/window_py$MyWindow__1_.coverage" NAME="MyWindow (1) 覆盖结果" MODIFIED="1678240987939" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/my_ip_exchange" />
+    <SUITE FILE_PATH="coverage/xpath_wallheaven_py$test2.coverage" NAME="test2 覆盖结果" MODIFIED="1688918615943" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bug/xpath" />
+    <SUITE FILE_PATH="coverage/window_py$kfc.coverage" NAME="kfc 覆盖结果" MODIFIED="1687764440338" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bug/reqst" />
+    <SUITE FILE_PATH="coverage/window_py$xpath_wallheaven__1_.coverage" NAME="xpath_wallheaven (1) 覆盖结果" MODIFIED="1688036364438" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bug" />
+    <SUITE FILE_PATH="coverage/xpath_wallheaven_py$_cookie__1_.coverage" NAME="古诗文网验证码-cookie (1) 覆盖结果" MODIFIED="1688655538809" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bug/xpath" />
+    <SUITE FILE_PATH="coverage/xpath_wallheaven_py$guitar_pool_ABC.coverage" NAME="guitar-pool-ABC 覆盖结果" MODIFIED="1688920963637" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bug/xpath" />
+    <SUITE FILE_PATH="coverage/xpath_wallheaven_py$___1_.coverage" NAME="古诗文网验证码-寄 (1) 覆盖结果" MODIFIED="1688216973215" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bug" />
+    <SUITE FILE_PATH="coverage/newlearnProject$.coverage" NAME="请求头格式化 覆盖结果" MODIFIED="1697607522500" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bug/xpath" />
+    <SUITE FILE_PATH="coverage/newlearnProject$test__2_.coverage" NAME="test (2) 覆盖结果" MODIFIED="1689333095934" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/play" />
+    <SUITE FILE_PATH="coverage/newlearnProject$VPN.coverage" NAME="VPN 覆盖结果" MODIFIED="1697450492947" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/gui" />
+    <SUITE FILE_PATH="coverage/newlearnProject$learn.coverage" NAME="learn 覆盖结果" MODIFIED="1668406296969" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/newlearnProject$show_mouse_pos.coverage" NAME="show_mouse_pos 覆盖结果" MODIFIED="1665734218871" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/newlearnProject$MyWindow__1_.coverage" NAME="MyWindow (1) 覆盖结果" MODIFIED="1674103566256" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/my_ip_exchange" />
+    <SUITE FILE_PATH="coverage/newlearnProject$iframe.coverage" NAME="iframe 覆盖结果" MODIFIED="1697535964664" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bug/selenium" />
+    <SUITE FILE_PATH="coverage/newlearnProject$test.coverage" NAME="test 覆盖结果" MODIFIED="1698743275788" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bug/xpath" />
+    <SUITE FILE_PATH="coverage/newlearnProject$window.coverage" NAME="window 覆盖结果" MODIFIED="1674107435649" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/myORC" />
+    <SUITE FILE_PATH="coverage/window_py$.coverage" NAME="百度翻译 覆盖结果" MODIFIED="1687763816283" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bug/reqst" />
+    <SUITE FILE_PATH="coverage/window_py$win.coverage" NAME="win 覆盖结果" MODIFIED="1678241302307" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/my_ip_exchange" />
+    <SUITE FILE_PATH="coverage/window_py$qt_ORC.coverage" NAME="qt_ORC 覆盖结果" MODIFIED="1686582840629" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/myORC" />
+    <SUITE FILE_PATH="coverage/xpath_wallheaven_py$chaojiying.coverage" NAME="chaojiying 覆盖结果" MODIFIED="1688132904179" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bug/chaojiying_Python" />
+    <SUITE FILE_PATH="coverage/xpath_wallheaven_py$test.coverage" NAME="test 覆盖结果" MODIFIED="1688920252670" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bug/xpath" />
+    <SUITE FILE_PATH="coverage/newlearnProject$cmd.coverage" NAME="执行cmd脚本 覆盖结果" MODIFIED="1694789901613" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/window_py$qt_ORC_run.coverage" NAME="qt_ORC_run 覆盖结果" MODIFIED="1687017038886" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/myORC" />
+    <SUITE FILE_PATH="coverage/xpath_wallheaven_py$await.coverage" NAME="await 覆盖结果" MODIFIED="1688886755771" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bug/异步" />
+    <SUITE FILE_PATH="coverage/window_py$test.coverage" NAME="test 覆盖结果" MODIFIED="1688033043087" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bug" />
+    <SUITE FILE_PATH="coverage/xpath_wallheaven_py$iframe.coverage" NAME="iframe 覆盖结果" MODIFIED="1688891881414" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bug/selenium" />
+    <SUITE FILE_PATH="coverage/newlearnProject$bubble.coverage" NAME="bubble 覆盖结果" MODIFIED="1664414754731" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/newlearnProject$boss_my2.coverage" NAME="boss大数据-my2 覆盖结果" MODIFIED="1698743080567" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bug/xpath" />
+    <SUITE FILE_PATH="coverage/xpath_wallheaven_py$show_mouse_pos.coverage" NAME="show_mouse_pos 覆盖结果" MODIFIED="1688921571833" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/newlearnProject$limu.coverage" NAME="limu 覆盖结果" MODIFIED="1689435359056" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bug/xpath" />
+    <SUITE FILE_PATH="coverage/window_py$Baidu_Text_transAPI.coverage" NAME="Baidu_Text_transAPI 覆盖结果" MODIFIED="1674195937092" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/xpath_wallheaven_py$xpath_wallheaven2.coverage" NAME="xpath_wallheaven2 覆盖结果" MODIFIED="1688044981471" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bug" />
+    <SUITE FILE_PATH="coverage/window_py$qt_ORC_run2.coverage" NAME="qt_ORC_run2 覆盖结果" MODIFIED="1687016318952" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/myORC" />
+    <SUITE FILE_PATH="coverage/window_py$xpath.coverage" NAME="xpath干图片 覆盖结果" MODIFIED="1688034458693" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bug" />
+    <SUITE FILE_PATH="coverage/newlearnProject$test_orc_grab.coverage" NAME="test_orc_grab 覆盖结果" MODIFIED="1673970444368" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/myORC" />
+    <SUITE FILE_PATH="coverage/xpath_wallheaven_py$VPN.coverage" NAME="VPN 覆盖结果" MODIFIED="1688922383501" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/gui" />
+    <SUITE FILE_PATH="coverage/xpath_wallheaven_py$new.coverage" NAME="new 覆盖结果" MODIFIED="1688892815874" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bug/selenium" />
+    <SUITE FILE_PATH="coverage/newlearnProject$xpath1.coverage" NAME="xpath1 覆盖结果" MODIFIED="1697534104630" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bug/xpath" />
+    <SUITE FILE_PATH="coverage/newlearnProject$fuck_white_block.coverage" NAME="fuck_white_block 覆盖结果" MODIFIED="1669794082784" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/window_py$bs.coverage" NAME="bs干小说 覆盖结果" MODIFIED="1687770107874" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bug" />
+    <SUITE FILE_PATH="coverage/newlearnProject$test__1_.coverage" NAME="test (1) 覆盖结果" MODIFIED="1697355920898" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/xpath_wallheaven_py$.coverage" NAME="吉他网 覆盖结果" MODIFIED="1688898571451" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bug/xpath" />
+    <SUITE FILE_PATH="coverage/window_py$xpath1.coverage" NAME="xpath1 覆盖结果" MODIFIED="1687962659432" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bug" />
+    <SUITE FILE_PATH="coverage/window_py$bilibili.coverage" NAME="干bilibili封面 覆盖结果" MODIFIED="1687194804358" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bug" />
+    <SUITE FILE_PATH="coverage/newlearnProject$find.coverage" NAME="find 覆盖结果" MODIFIED="1670677082049" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/play" />
+    <SUITE FILE_PATH="coverage/window_py$qt_test.coverage" NAME="qt_test 覆盖结果" MODIFIED="1686568035780" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/myORC" />
+    <SUITE FILE_PATH="coverage/newlearnProject$chaoxing_f12tool.coverage" NAME="chaoxing_f12tool 覆盖结果" MODIFIED="1665734538244" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/window_py$main.coverage" NAME="main 覆盖结果" MODIFIED="1687102962916" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/myORC/QTwindow" />
+    <SUITE FILE_PATH="coverage/window_py$get.coverage" NAME="get 覆盖结果" MODIFIED="1687190711393" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bug" />
+    <SUITE FILE_PATH="coverage/xpath_wallheaven_py$xpath_wallheaven.coverage" NAME="xpath_wallheaven线程 覆盖结果" MODIFIED="1688310480334" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bug/xpath" />
+    <SUITE FILE_PATH="coverage/window_py$window.coverage" NAME="window 覆盖结果" MODIFIED="1686638640666" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/myORC" />
+    <SUITE FILE_PATH="coverage/newlearnProject$boss_my.coverage" NAME="boss大数据-my 覆盖结果" MODIFIED="1698227545334" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bug/xpath" />
+    <SUITE FILE_PATH="coverage/newlearnProject$star.coverage" NAME="star 覆盖结果" MODIFIED="1666531295058" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/play" />
+    <SUITE FILE_PATH="coverage/newlearnProject$__1_.coverage" NAME="十转二 (1) 覆盖结果" MODIFIED="1669708325957" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/my_ip_exchange" />
+    <SUITE FILE_PATH="coverage/xpath_wallheaven_py$xpath_wallheaven__1_.coverage" NAME="xpath_wallheaven线程 (1) 覆盖结果" MODIFIED="1688649040185" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bug/异步" />
+    <SUITE FILE_PATH="coverage/newlearnProject$MyWindow.coverage" NAME="MyWindow 覆盖结果" MODIFIED="1668138863635" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/newlearnProject$AI.coverage" NAME="AI 覆盖结果" MODIFIED="1670845799159" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/play" />
+    <SUITE FILE_PATH="coverage/window_py$tets.coverage" NAME="tets 覆盖结果" MODIFIED="1687767170990" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bug/reqst" />
+    <SUITE FILE_PATH="coverage/xpath_wallheaven_py$my.coverage" NAME="my 覆盖结果" MODIFIED="1688897926973" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bug/scrapy/xiaohongshu/xiaohongshu/spiders" />
+    <SUITE FILE_PATH="coverage/newlearnProject$boss.coverage" NAME="boss大数据 覆盖结果" MODIFIED="1697610884231" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bug/xpath" />
+    <SUITE FILE_PATH="coverage/newlearnProject$rename.coverage" NAME="rename 覆盖结果" MODIFIED="1691335783346" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/newlearnProject$DragWindows.coverage" NAME="DragWindows 覆盖结果" MODIFIED="1665734961187" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/xpath_wallheaven_py$guitar_pool.coverage" NAME="guitar-pool 覆盖结果" MODIFIED="1688663011923" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bug/xpath" />
+    <SUITE FILE_PATH="coverage/xpath_wallheaven_py$1.coverage" NAME="1 覆盖结果" MODIFIED="1688650245579" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bug/异步" />
+    <SUITE FILE_PATH="coverage/window_py$Baidu_Text_transAPI__1_.coverage" NAME="Baidu_Text_transAPI (1) 覆盖结果" MODIFIED="1674197386385" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/myORC" />
+    <SUITE FILE_PATH="coverage/xpath_wallheaven_py$guitar.coverage" NAME="guitar 覆盖结果" MODIFIED="1688661481237" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bug/xpath" />
+    <SUITE FILE_PATH="coverage/window_py$cmd_op.coverage" NAME="cmd_op 覆盖结果" MODIFIED="1686568402031" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/newlearnProject$api.coverage" NAME="身份证归属地api 覆盖结果" MODIFIED="1697270198642" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
