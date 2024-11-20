@@ -24,9 +24,9 @@ while yes is jud:
 if yes is not jud:
     sleep(0.5)
     gui.doubleClick(920, 535)
-    gui.typewrite('y\n2220802')
+    gui.typewrite('')
     gui.typewrite('\t')
-    gui.typewrite('5059@suep')
+    gui.typewrite('')
 else:
     print('彻底没找到')
     input('')
