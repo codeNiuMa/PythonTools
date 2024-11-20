@@ -61,7 +61,7 @@ class Chaojiying_Client(object):
 
 def getCode(path, type):
 
-    chaojiying = Chaojiying_Client('2325415123', '200111', '931318')	#用户中心>>软件ID 生成一个替换 96001
+    chaojiying = Chaojiying_Client('')	#用户中心>>软件ID 生成一个替换 96001
     im = open(path, 'rb').read()													#本地图片文件路径 来替换 a.jpg 有时WIN系统须要//											#1902 验证码类型  官方网站>>价格体系 3.4+版 print 后要加()
                                                                                 #print chaojiying.PostPic(base64_str, 1902)  #此处为传入 base64代码
     return chaojiying.PostPic(im, type)['pic_str']
