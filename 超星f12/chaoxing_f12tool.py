@@ -85,7 +85,7 @@ def all_operation():
 # window.wm_attributes('-topmost', True)
 
 root = DragWindow()
-root.title('超星小工具 by远哥')
+root.title('超星小工具')
 root.set_window_size(200, 300)
 root.set_display_postion(1000, 500)
 # root.overrideredirect(True)  # 隐藏标题栏
